@@ -1,0 +1,7 @@
+E:\TUNK\C#\examples\Math\Math\bin\Debug\Math.exe.config
+E:\TUNK\C#\examples\Math\Math\bin\Debug\Math.exe
+E:\TUNK\C#\examples\Math\Math\bin\Debug\Math.pdb
+E:\TUNK\C#\examples\Math\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+E:\TUNK\C#\examples\Math\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+E:\TUNK\C#\examples\Math\Math\obj\Debug\Math.exe
+E:\TUNK\C#\examples\Math\Math\obj\Debug\Math.pdb

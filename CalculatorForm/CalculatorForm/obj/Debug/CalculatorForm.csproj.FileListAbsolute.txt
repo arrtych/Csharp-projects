@@ -1,0 +1,10 @@
+E:\TUNK\C#\examples\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.exe.config
+E:\TUNK\C#\examples\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.exe
+E:\TUNK\C#\examples\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.pdb
+E:\TUNK\C#\examples\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csprojResolveAssemblyReference.cache
+E:\TUNK\C#\examples\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.Form1.resources
+E:\TUNK\C#\examples\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.Properties.Resources.resources
+E:\TUNK\C#\examples\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csproj.GenerateResource.Cache
+E:\TUNK\C#\examples\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csproj.CoreCompileInputs.cache
+E:\TUNK\C#\examples\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.exe
+E:\TUNK\C#\examples\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.pdb

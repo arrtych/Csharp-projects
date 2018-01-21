@@ -1,0 +1,7 @@
+E:\TUNK\C#\examples\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\TUNK\C#\examples\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\TUNK\C#\examples\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\TUNK\C#\examples\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\TUNK\C#\examples\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\TUNK\C#\examples\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\TUNK\C#\examples\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

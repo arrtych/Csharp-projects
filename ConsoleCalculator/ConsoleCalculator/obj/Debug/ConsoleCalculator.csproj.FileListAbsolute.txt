@@ -1,0 +1,7 @@
+E:\TUNK\C#\examples\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+E:\TUNK\C#\examples\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+E:\TUNK\C#\examples\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+E:\TUNK\C#\examples\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojResolveAssemblyReference.cache
+E:\TUNK\C#\examples\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+E:\TUNK\C#\examples\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+E:\TUNK\C#\examples\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
